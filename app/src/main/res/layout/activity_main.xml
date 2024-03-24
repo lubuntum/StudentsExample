@@ -46,22 +46,19 @@
                 android:layout_height="wrap_content"
                 android:inputType="numberDecimal"
                 android:hint="Red"
-                android:layout_weight="1"
-                android:textColor="@color/bootstrap_brand_danger"/>
+                android:layout_weight="1" />
             <EditText
                 android:id="@+id/green"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:hint="Green"
-                android:textColor="@color/bootstrap_brand_success"/>
+                android:hint="Green" />
             <EditText
                 android:id="@+id/blue"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:hint="Blue"
-                android:textColor="@color/bootstrap_brand_primary"/>
+                android:hint="Blue" />
         </LinearLayout>
 
         <Button
